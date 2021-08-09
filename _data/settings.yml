@@ -1,6 +1,4 @@
 menu:
-  - name: background
-    url: /background
   - name: publications
     url: /publications
   - name: cv
