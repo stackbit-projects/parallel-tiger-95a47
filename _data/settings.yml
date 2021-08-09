@@ -1,5 +1,5 @@
 menu:
-  - url: /people
+  - url: /background
     name: background
   - name: publications
     url: /publications
