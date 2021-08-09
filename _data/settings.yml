@@ -5,8 +5,6 @@ menu:
     url: /publications
   - name: cv
     url: /cv
-  - name: contact
-    url: /contact
 people:
   - name: Primary Investigator
     title: Researcher
