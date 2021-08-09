@@ -1,6 +1,6 @@
 menu:
   - name: Home
-    url: /publications
+    url: /
   - name: publications
     url: /publications
   - name: cv
