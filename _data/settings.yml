@@ -1,5 +1,6 @@
 menu:
   - url: /people
+    name: background
   - name: publications
     url: /publications
   - name: courses
