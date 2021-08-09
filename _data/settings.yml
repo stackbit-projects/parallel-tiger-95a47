@@ -14,7 +14,6 @@ people:
     phone: (000) 000-0000
     email: hello@university.edu
     office: Science Building 505
-    image: assets/img/primary-investigator.jpg
     url: primary-investigator
   - name: Lab Technician
     title: Researcher
