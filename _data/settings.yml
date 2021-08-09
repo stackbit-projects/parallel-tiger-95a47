@@ -1,7 +1,7 @@
 menu:
   - name: publications
     url: /publications
-  - name: lorem-ipsum
+  - name: publications
     url: lorem-ipsum
   - name: courses
     url: /courses
