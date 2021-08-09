@@ -1,6 +1,8 @@
 menu:
   - name: publications
     url: /publications
+  - name: lorem-ipsum
+    url: lorem-ipsum
   - name: cv
     url: /cv
 people:
