@@ -3,6 +3,8 @@ menu:
     url: /publications
   - name: lorem-ipsum
     url: lorem-ipsum
+  - name: lorem-ipsum
+    url: lorem-ipsum
   - name: courses
     url: /courses
   - name: cv
